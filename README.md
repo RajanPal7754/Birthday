@@ -1,2 +1,5 @@
-<h1>🌐 Live Demo</h1><br>
-[Click Here to Visit](https://rajanpal7754.github.io/Birthday/)
+<p align="center">
+  <a href="https://rajanpal7754.github.io/Birthday/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-success?style=for-the-badge">
+  </a>
+</p>
